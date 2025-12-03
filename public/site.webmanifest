@@ -1,0 +1,26 @@
+{
+  "name": "White Eagles Fund",
+  "short_name": "WE Fund",
+  "description": "High-Technology Innovation Investment",
+  "icons": [
+    {
+      "src": "/favicon-32x32.jpg",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.jpg",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.jpg",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4a5a8a",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
